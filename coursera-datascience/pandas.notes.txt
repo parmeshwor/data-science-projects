@@ -1,0 +1,5 @@
+1. regex
+pattern = '[A-Z][a-z]'
+prog = re.compile(pattern)
+prog.findall('String with Name') ; returns [String,Name]
+
