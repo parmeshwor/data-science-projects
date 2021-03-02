@@ -1,2 +1,2 @@
-# super-duper-octo-sniffle
+# Python data science
 smart pandas
